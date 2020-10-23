@@ -1,4 +1,5 @@
 # mounting
+### 基于vue的页面内容区div层吸顶并级联菜单功能，并且兼容了缩放150%、80%等等
 
 > A Vue.js project
 
